@@ -12,8 +12,8 @@ import java.util.Scanner;
  */
 public class Main {
     public static void main(String[] args) {
-        Mobil mobil = new Mobil(4, "Rifal", "BA5432SE", "Mobil");
-        Motor motor = new Motor(true, "Dhiya", "B2221LD", "Motor");
+        Mobil mobil = new Mobil(4, "Galiza", "BA5432SE", "Mobil");
+        Motor motor = new Motor(true, "Nur", "B2221LD", "Motor");
        
         
         System.out.println("=== Informasi Kendaraan ===");
